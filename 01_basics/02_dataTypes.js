@@ -2,7 +2,7 @@
 
 // alert("hello") // we are using nodejs, not a browser..
 
-console.log(3
+console.log(4
     +
     3) // code readibility should be high
 
