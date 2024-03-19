@@ -25,4 +25,7 @@ let state; // undefined
 
 // object
 
-console.log();
+console.log(typeof "Swastik") // string
+console.log(typeof age) // number
+console.log(typeof null) // object
+console.log(typeof undefined) // undefined
