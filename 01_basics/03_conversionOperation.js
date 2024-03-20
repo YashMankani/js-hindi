@@ -119,6 +119,7 @@ let product = str1 + str2
 // console.log(+"");
 
 let gameCounter = 100
+
 ++gameCounter; // prefix
 console.log(gameCounter);
 
