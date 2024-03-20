@@ -117,3 +117,10 @@ let product = str1 + str2
 
 // console.log(+true); 
 // console.log(+"");
+
+let gameCounter = 100
+++gameCounter; // prefix
+console.log(gameCounter);
+
+console.log(gameCounter);
+gameCounter++; // postfix
